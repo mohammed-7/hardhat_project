@@ -1,0 +1,9 @@
+Hardhat installations and configuration steps:
+    -create a folder naming as hardhat on your desktop or you can directly call a command as mkdir hardhat_project.
+    -after creating a project folder we have to inititate by command npm init.
+    - the next command to install hardhat in our project folder is - npm install --save-dev hardhat 
+    - after installation of hardhat in our system we can check the successfull installation by command - npx hardhat init 
+    - after checking our successfull installation of hardhat now its time to inititate a project , here we either can inititate with hardhat.config.js file if we have sound knowledge and wants to build a particular project from scratch , if not we can use by default javascript project which gives us a required environment of contracts and pre built tools to develop , test and deploy our project .
+    - In hardhat we have two types of Networks 
+        -JSON RPC API based Networks.
+        -Built in hardhat Network.

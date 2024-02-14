@@ -1,0 +1,3 @@
+q1: what is Hardhat?
+    Hardhat is a javascript ethereum development environment where it helps developers to build fullstack applications for decentralized apps and test smart contracts and deploy them on Testnet.
+    
